@@ -5,9 +5,8 @@
 
 ## Навыки и технологии
 #### Теги: NLP, обработка естественного языка, машинное обучение, нейронные сети, BERT
-![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat&logo=pytorch&logoColor=orange)
-![Transformers](https://img.shields.io/badge/Transformers-black?style=flat&logo=huggingface&logoColor=orange)
-![NLTK](https://img.shields.io/badge/NLTK-black?style=flat&logo=nltk&logoColor=orange)
+![statsmodels](https://img.shields.io/badge/statsmodels-black?style=flat&logoColor=orange)
+![LightGBM](https://img.shields.io/badge/LightGBM-black?style=flat&logo=lightgbm&logoColor=orange)
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat&logo=pandas&logoColor=orange)
 ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat&logo=numpy&logoColor=orange)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat&logo=matplotlib&logoColor=orange)
