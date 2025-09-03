@@ -4,8 +4,7 @@
 Сервис по продаже автомобилей с пробегом 'Авто.ру' разрабатывает приложение для привлечения новых клиентов. В нём можно быстро узнать рыночную стоимость своего автомобиля. На основе исторических данных необходимо построить модель для определения стоимости автомобиля.
 
 ## Навыки и технологии
-#### Теги: временные ряды, регрессия, машинное обучение
-![statsmodels](https://img.shields.io/badge/statsmodels-black?style=flat&logoColor=orange)
+#### Теги: градиентный бустинг, регрессия, машинное обучение
 ![LightGBM](https://img.shields.io/badge/LightGBM-black?style=flat&logo=lightgbm&logoColor=orange)
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat&logo=pandas&logoColor=orange)
 ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat&logo=numpy&logoColor=orange)
