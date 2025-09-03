@@ -4,7 +4,7 @@
 Помочь интернет-магазину «Ozon» создать модель, которая будет искать токсичные комментарии и отправлять их на модерацию.
 
 ## Навыки и технологии
-#### Теги: компьютерное зрение, обработка изображений, нейронные сети, ResNet50
+#### Теги: NLP, обработка естественного языка, машинное обучение, нейронные сети, BERT
 ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat&logo=pytorch&logoColor=orange)
 ![Keras](https://img.shields.io/badge/Keras-black?style=flat&logo=keras&logoColor=orange)
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat&logo=pandas&logoColor=orange)
