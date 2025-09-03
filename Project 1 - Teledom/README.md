@@ -8,3 +8,4 @@
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat&logo=pandas&logoColor=orange)
 ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat&logo=numpy&logoColor=orange)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat&logo=matplotlib&logoColor=orange)
+![Seaborn](https://img.shields.io/badge/Seaborn-black?style=flat&logo=seaborn&logoColor=orange)
