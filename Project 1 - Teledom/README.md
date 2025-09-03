@@ -12,6 +12,8 @@
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-black?style=flat&logo=scikit-learn&logoColor=orange)
 ![CatBoost](https://img.shields.io/badge/CatBoost-black?style=flat&logoColor=orange)
 
+# Пример
+
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat&logo=pandas&logoColor=orange)
 ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat&logo=numpy&logoColor=orange)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat&logo=matplotlib&logoColor=orange)
