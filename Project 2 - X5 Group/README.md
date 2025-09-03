@@ -6,7 +6,7 @@
 - Контролировать добросовестность кассиров при продаже алкоголя
 
 ## Навыки и технологии
-#### Теги: компьютерное зрение, обработка изображени, нейронные сети
+#### Теги: компьютерное зрение, обработка изображений, нейронные сети
 ![Keras](https://img.shields.io/badge/Keras-black?style=flat&logo=keras&logoColor=orange)
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat&logo=pandas&logoColor=orange)
 ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat&logo=numpy&logoColor=orange)
