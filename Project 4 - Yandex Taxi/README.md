@@ -4,7 +4,7 @@
 Помочь сервису «Яндекс Такси» создать модель для прогнозирования количества вызовов такси.
 
 ## Навыки и технологии
-#### Теги: NLP, обработка естественного языка, машинное обучение, нейронные сети, BERT
+#### Теги: временные ряды, регрессия, машинное обучение
 ![statsmodels](https://img.shields.io/badge/statsmodels-black?style=flat&logoColor=orange)
 ![LightGBM](https://img.shields.io/badge/LightGBM-black?style=flat&logo=lightgbm&logoColor=orange)
 ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat&logo=pandas&logoColor=orange)
