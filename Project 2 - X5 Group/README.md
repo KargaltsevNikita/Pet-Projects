@@ -14,7 +14,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-black?style=flat&logo=seaborn&logoColor=orange)
 
 ## Сферы деятельности
-Бизнес, Телеком
+Бизнес, Ритейл
 
 ## Основные пункты исследования
 - Подготовка данных
