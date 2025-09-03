@@ -5,4 +5,5 @@
 
 ## Навыки и технологии
 #### Теги: машинное обучение, классификация
-![Pandas](https://img.shields.io/badge/Pandas-black?style=flat&logo=pandas&logoColor=white) а
+![Pandas](https://img.shields.io/badge/Pandas-black?style=flat&logo=pandas&logoColor=white) 
+
