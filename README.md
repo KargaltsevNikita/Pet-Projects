@@ -1,29 +1,10 @@
-# Pet-проект Викишоп - классификация комментариев
+# Портфолио Pet-проектов
 
-## Описание проекта
-Помочь интернет-магазин «Викишоп» создать модель, которая будет искать токсичные комментарии и отправлять их на модерацию.
-
-## Навыки и технологии
-#### Теги: компьютерное зрение, обработка изображений, нейронные сети, ResNet50
-![Keras](https://img.shields.io/badge/Keras-black?style=flat&logo=keras&logoColor=orange)
-![Pandas](https://img.shields.io/badge/Pandas-black?style=flat&logo=pandas&logoColor=orange)
-![NumPy](https://img.shields.io/badge/NumPy-black?style=flat&logo=numpy&logoColor=orange)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat&logo=matplotlib&logoColor=orange)
-![Seaborn](https://img.shields.io/badge/Seaborn-black?style=flat&logo=seaborn&logoColor=orange)
-
-## Сферы деятельности
-Бизнес, Ритейл
-
-## Основные пункты исследования
-- Подготовка данных
-- Исследовательский анализ данных
-- Обучение модели
-- Анализ модели
-
-## Результаты
-- Дообучили модель на базе ResNet50, ранее предобученную на большой выборке ImageNet
-- Добились значения 6.07 для метрики MAE на тестовой выборке
-
-## Выводы
-- Модель можно использовать для анализа покупок и предложения товаров, которые могут заинтересовать покупателей этой возрастной группы.
-- Модель не стоит использовать для контролирования добросовестности кассиров при продаже алкоголя - так как на этом этапе обучения она недостаточно точна.
+## Список
+| Проект | Описание | Технологии |
+|--------|----------|------------|
+| [Теледом](https://github.com/username/mybot) | Предсказание оттока клиентов | ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) |
+| [Хлеб-Соль](https://github.com/username/mysite) | Предсказание возраста клиента по фотографии | ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) |
+| [Викишоп](https://github.com/username/githelper) | Классификация токсичных комментариев | ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) |
+| [Такси](https://github.com/username/githelper) | Прогнозирование количества заказов такси на следующий час | ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) |
+| [Автодром](https://github.com/username/githelper) | Определение стоимости автомобилей | ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) |
